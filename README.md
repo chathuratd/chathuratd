@@ -13,7 +13,7 @@ I am a passionate IT undergraduate at [SLIIT](https://www.sliit.lk/), exploring 
 
 ## 🛠️ Skills
 
-- Programming Languages: [C   C++   Java]
+- Programming Languages: [C  , C++ ,  Java]
 - Web Development: [React]
 - Database Management: [SQL]
 
