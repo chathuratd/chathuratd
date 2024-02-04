@@ -9,12 +9,12 @@ I am a passionate IT undergraduate at [SLIIT](https://www.sliit.lk/), exploring 
 - 📚 Currently pursuing my degree in Information Technology.
 - 💡 Eager to learn and stay updated on the latest trends in the IT industry.
 - 🌐 Love exploring new technologies and their practical applications.
-- 🤝 Open to collaboration and connecting with fellow tech enthusiasts.
+<!--- 🤝 Open to collaboration and connecting with fellow tech enthusiasts.-->
 
 ## 🛠️ Skills
 
-- Programming Languages: [C, C++, Java]
-- Web Development: [JavaScript, React]
+- Programming Languages: [C C++ Java]
+- Web Development: [React]
 - Database Management: [SQL]
 
 ## 📫 Let's Connect!
