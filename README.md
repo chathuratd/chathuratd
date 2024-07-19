@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m a 21-year-old Software Engineering undergraduate from Sri Lanka.<br><br>🌐 Passionate about Cloud Technologies<br>I’m enthusiastic about exploring cloud computing and how it can drive innovation and scalability.<br><br>⚙️ DevOps Enthusiast<br>I focus on building and automating software deployments to enhance efficiency and streamline processes.<br><br>💡 Focused on Efficiency and Scalability<br>I’m always looking for ways to leverage tools and practices that improve performance and scalability in software projects.
+👋 Hi there! I’m a 21-year-old Software Engineering undergraduate from Sri Lanka.<br><br>🌐 Passionate about Cloud Technologies<br><br>⚙️ DevOps Enthusiast<br><br>💡 Focused on Efficiency and Scalability<br>
 
 
 ## 🌐 Socials:
