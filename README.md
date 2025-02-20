@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I’m a 21-year-old Software Engineering undergraduate from Sri Lanka.<br>🌐 Passionate about Cloud Technologies<br>⚙️ DevOps Enthusiast<br>💡 Focused on Efficiency and Scalability<br>
+Hi there! I’m a 21-year-old Software Engineering undergraduate from Sri Lanka.<br>
 
 
 ## 🌐 Socials:
